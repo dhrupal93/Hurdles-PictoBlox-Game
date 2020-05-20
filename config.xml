@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.tobiwalking.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Tobi Waling</name>
+
+  <description>
+      An example for phonegap build docs.
+  </description>
+
+  <author href="https://thestempedia.com" email="support@thestempedia.com">
+     Dhrupal
+  </author>
+  
+  <icon src = "Tobi_512x512.png"
+
+</widget>
